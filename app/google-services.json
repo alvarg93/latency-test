@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "751170194664",
+    "firebase_url": "https://latency-test-7d3eb.firebaseio.com",
+    "project_id": "latency-test-7d3eb",
+    "storage_bucket": "latency-test-7d3eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751170194664:android:3d0b67d6815d3393",
+        "android_client_info": {
+          "package_name": "com.janyga.latencytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751170194664-m57afjsvcdvocn3cef8ihqkmlmj02h4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnhnnEMAu-vP1rs98IW-3M-tvXWp5pcd0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

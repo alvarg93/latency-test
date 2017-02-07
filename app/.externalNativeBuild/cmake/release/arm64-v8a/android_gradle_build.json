@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/lukaszjanyga/Downloads/android-ndk-master/native-audio/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/lukaszjanyga/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/lukaszjanyga/Downloads/android-ndk-master/native-audio/app/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+	],
+	"libraries" : 
+	{
+		"native-audio-jni-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "native-audio-jni",
+			"buildCommand" : "/Users/lukaszjanyga/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/lukaszjanyga/Downloads/android-ndk-master/native-audio/app/.externalNativeBuild/cmake/release/arm64-v8a --target native-audio-jni",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target aarch64-none-linux-android -gcc-toolchain /Users/lukaszjanyga/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/lukaszjanyga/Library/Android/sdk/ndk-bundle/platforms/android-23/arch-arm64 -Dnative_audio_jni_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -std=c99 -Wall -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "/Users/lukaszjanyga/Downloads/android-ndk-master/native-audio/app/src/main/cpp/native-audio-jni.c",
+					"workingDirectory" : "/Users/lukaszjanyga/Downloads/android-ndk-master/native-audio/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "/Users/lukaszjanyga/Downloads/android-ndk-master/native-audio/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-audio-jni.so",
+			"toolchain" : "10144065682009252548"
+		}
+	},
+	"toolchains" : 
+	{
+		"10144065682009252548" : 
+		{
+			"cCompilerExecutable" : "/Users/lukaszjanyga/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/lukaszjanyga/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

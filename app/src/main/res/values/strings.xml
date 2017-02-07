@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Welcome to our audio loop latency measuring app.
+        To run a test press the button below. Results will be presented on the chart.</string>
+    <string name="run_test">Run test</string>
+    <string name="app_name">Latency Test</string>
+    <string name="NeedRecordAudioPermission">"This sample needs RECORD_AUDIO permission"</string>
+    <string name="latency">latency (ms)</string>
+    <string name="dialog_message_bad_conditions">The test was interrupted by background noise.
+        Please make sure that no other sounds are audible in the room and volume is set to maximum.</string>
+    <string name="dialog_message_poor">Unfortunately, your phone has too high latency level for any
+        sound processing. Professional audio applications require the round-trip latency to be below 20ms,
+        compared to %1$sms reached by your device.</string>
+    <string name="dialog_message_medium">Close! Professional audio applications requirethe round-trip
+        latency to be below 20ms, compared to %1$sms reached by your device. You can try using it with
+        some audio software but delays might prove too high.</string>
+    <string name="dialog_message_great">Great! Your phone has the round-trip latency of %1$sms which
+        is below 20ms! Your phone can use pro audio features!</string>
+    <string name="dialog_title">Your result</string>
+    <string name="ok">Ok</string>
+</resources>

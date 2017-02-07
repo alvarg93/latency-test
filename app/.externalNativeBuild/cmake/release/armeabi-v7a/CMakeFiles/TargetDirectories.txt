@@ -1,0 +1,3 @@
+/Users/lukaszjanyga/Downloads/android-ndk-master/native-audio/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/lukaszjanyga/Downloads/android-ndk-master/native-audio/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/lukaszjanyga/Downloads/android-ndk-master/native-audio/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/native-audio-jni.dir

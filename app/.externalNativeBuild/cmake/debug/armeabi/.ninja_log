@@ -1,0 +1,3 @@
+# ninja log v5
+0	261	0	CMakeFiles/native-audio-jni.dir/native-audio-jni.c.o	451a411db9d156b4
+261	293	0	/Users/lukaszjanyga/Downloads/android-ndk-master/native-audio/app/build/intermediates/cmake/debug/obj/armeabi/libnative-audio-jni.so	f30ad2835a694fef
